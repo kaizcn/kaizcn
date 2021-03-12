@@ -21,7 +21,7 @@ spec:
     includes:
       - travel
       - Soccer (Red Devils)
-      - Snowboard (Green -> Blue)
+      - Snowboard (Blue -> Black)
 ```
 #### If you want to know more, as an engineer :man_technologist:, i also use below skills to build stuff.
 
